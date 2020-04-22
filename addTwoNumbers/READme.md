@@ -1,3 +1,7 @@
+## Video Explicativo
+
+https://youtu.be/AdzdwBK7fDo
+
 ## Website
 
 	https://www.interviewbit.com/problems/add-two-numbers-as-lists/
